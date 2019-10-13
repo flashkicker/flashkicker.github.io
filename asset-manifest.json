@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.js": "/static/js/main.58252c45.chunk.js",
-    "main.js.map": "/static/js/main.58252c45.chunk.js.map",
+    "main.js": "/static/js/main.56f0f28a.chunk.js",
+    "main.js.map": "/static/js/main.56f0f28a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.67a84473.js",
     "runtime-main.js.map": "/static/js/runtime-main.67a84473.js.map",
-    "static/js/2.d56acbd3.chunk.js": "/static/js/2.d56acbd3.chunk.js",
-    "static/js/2.d56acbd3.chunk.js.map": "/static/js/2.d56acbd3.chunk.js.map",
+    "static/js/2.66ed0e71.chunk.js": "/static/js/2.66ed0e71.chunk.js",
+    "static/js/2.66ed0e71.chunk.js.map": "/static/js/2.66ed0e71.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1334aa440323dca6a8a97bcbeca8a53e.js": "/precache-manifest.1334aa440323dca6a8a97bcbeca8a53e.js",
-    "service-worker.js": "/service-worker.js"
+    "precache-manifest.68b40b172206a7cb601583bab942dc9f.js": "/precache-manifest.68b40b172206a7cb601583bab942dc9f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/github.svg": "/static/media/github.617870e4.svg",
+    "static/media/instagram.svg": "/static/media/instagram.662a4f14.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.619231ff.svg",
+    "static/media/moi.jpg": "/static/media/moi.86ad4d7b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.67a84473.js",
-    "static/js/2.d56acbd3.chunk.js",
-    "static/js/main.58252c45.chunk.js"
+    "static/js/2.66ed0e71.chunk.js",
+    "static/js/main.56f0f28a.chunk.js"
   ]
 }
