@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.cdf691d7.chunk.js",
-    "main.js.map": "/static/js/main.cdf691d7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.67a84473.js",
-    "runtime-main.js.map": "/static/js/runtime-main.67a84473.js.map",
-    "static/js/2.8d5811bd.chunk.js": "/static/js/2.8d5811bd.chunk.js",
-    "static/js/2.8d5811bd.chunk.js.map": "/static/js/2.8d5811bd.chunk.js.map",
+    "main.js": "/static/js/main.4b29fd27.chunk.js",
+    "main.js.map": "/static/js/main.4b29fd27.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.842a5d88.js",
+    "runtime-main.js.map": "/static/js/runtime-main.842a5d88.js.map",
+    "static/js/2.8e2fa832.chunk.js": "/static/js/2.8e2fa832.chunk.js",
+    "static/js/2.8e2fa832.chunk.js.map": "/static/js/2.8e2fa832.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e7d5c2fe5a01ba9edd34153288887002.js": "/precache-manifest.e7d5c2fe5a01ba9edd34153288887002.js",
+    "precache-manifest.6a1e2765976bb1a701110d5363fa2888.js": "/precache-manifest.6a1e2765976bb1a701110d5363fa2888.js",
     "service-worker.js": "/service-worker.js",
     "static/media/github.svg": "/static/media/github.617870e4.svg",
     "static/media/instagram.svg": "/static/media/instagram.662a4f14.svg",
@@ -15,8 +15,8 @@
     "static/media/moi.jpg": "/static/media/moi.86ad4d7b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.67a84473.js",
-    "static/js/2.8d5811bd.chunk.js",
-    "static/js/main.cdf691d7.chunk.js"
+    "static/js/runtime-main.842a5d88.js",
+    "static/js/2.8e2fa832.chunk.js",
+    "static/js/main.4b29fd27.chunk.js"
   ]
 }
