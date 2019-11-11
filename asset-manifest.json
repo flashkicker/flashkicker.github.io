@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.9acd5c9b.chunk.js",
-    "main.js.map": "/static/js/main.9acd5c9b.chunk.js.map",
+    "main.js": "/static/js/main.247ee1ae.chunk.js",
+    "main.js.map": "/static/js/main.247ee1ae.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.842a5d88.js",
     "runtime-main.js.map": "/static/js/runtime-main.842a5d88.js.map",
-    "static/js/2.f2281779.chunk.js": "/static/js/2.f2281779.chunk.js",
-    "static/js/2.f2281779.chunk.js.map": "/static/js/2.f2281779.chunk.js.map",
+    "static/js/2.469a21eb.chunk.js": "/static/js/2.469a21eb.chunk.js",
+    "static/js/2.469a21eb.chunk.js.map": "/static/js/2.469a21eb.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e4920d7cee35b6c7704876e952273643.js": "/precache-manifest.e4920d7cee35b6c7704876e952273643.js",
+    "precache-manifest.f5e3f450a627aefb71e4e74c7bc37036.js": "/precache-manifest.f5e3f450a627aefb71e4e74c7bc37036.js",
     "service-worker.js": "/service-worker.js",
     "static/media/github.svg": "/static/media/github.617870e4.svg",
     "static/media/instagram.svg": "/static/media/instagram.662a4f14.svg",
@@ -16,7 +16,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.842a5d88.js",
-    "static/js/2.f2281779.chunk.js",
-    "static/js/main.9acd5c9b.chunk.js"
+    "static/js/2.469a21eb.chunk.js",
+    "static/js/main.247ee1ae.chunk.js"
   ]
 }
